@@ -1,0 +1,30 @@
+Allel ... Variante eines Genes
+Autosom ... Nicht-Geschlechtschromosomen (Paare 1-22)
+Barr-Körperchen ... deaktiviertes X-Chromosom in weiblichen Zellen
+Chromatid ... identische "Hälfte" eines Chromosoms
+Crossing-Over ... Prozess bei der Meiose, durch den Chromosomenabschnitte zwischen diesen vertauscht werden; Neukombination der Gene.
+Deletion ... Entfernen eines DNA-Abschnittes
+Diploid ... Doppelter Chromosomensatz
+Dominant ... Gen auch im Phänotyp erkenntlich, wenn es einfach (heterozygot) vorkommt
+Duplikation ... Chromosomenstück wird ins Schwesterchromatid eingebaut
+Erythrozyten ... Rote Blutzellen
+Gameten ... Keimzellen
+Gen ... Abschnitt der DNA, welcher für ein Merkmal oder Protein codiert
+Genom ... Gesamtheit der DNA
+Genotyp ... Bestimmt, welche Merkmale ausgeprägt werden könnten
+Gonosom ... Geschlechtschromosom (X, Y)
+Haploid ... Einfacher Chromosomensatz
+Heterologe Chromosomen ... Chromosomen ohne "Partner" (zb. Y-Chromosom)
+Homologe Chromosomen ... Chromosomen in einem Paar, die für gleiches kodieren
+Insertion ... Einfügen eines DNA-Abschnittes
+Inversion ... Chromosomenstück umgekehrt wieder eingefügt
+Megafauna ... Riesige Tiere
+Mischerbig/Heterozygot ... zwei unterschiedliche Allele vorhanden (Aa)
+Ovarien ... Eierstöcke
+Phänotyp ... Erscheinungsbild bzw. beobachtbare Merkmale
+Polyploid ... Vielfacher Chromosomensatz (3n, 4n, 5n, ...)
+Reinerbig/Homozygot ... zwei gleiche Allele vorhanden (AA/aa)
+Rezessiv ... Ein rezessives Gen ist nur im Phänotyp sichtbar, wenn es doppelt (homozygot) im Genom vorkommt (zb. Blaue Augenfarbe)
+Selektion ... Auslese
+Substitution ... Austauschen eines DNA-Abschnittes
+Translokation ... Chromosomenstück wird an nicht-homologem Chromosom angeheftet
